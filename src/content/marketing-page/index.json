@@ -1,13 +1,13 @@
 {
   "hero": {
-    "title": "TIER 1 - EVENT NAME HERE",
-    "date": "Date Information",
+    "title": "2024 San Jose Sports Hall of Fame",
+    "date": "Wednesday, November 13, 2024",
     "dateLayout": true,
-    "time": "Timezone",
+    "time": "SAP Center | 5:30 p.m. – 9:30 p.m.",
     "buttons": {
       "registerButton": {
         "text": "Register Now",
-        "display": true
+        "display": false
       },
       "loginButton": {
         "text": "Log In",
@@ -16,15 +16,10 @@
     },
     "images": [
       {
-        "src": "tier1-default-header1.png"
-      },
-      {
-        "src": "tier1-default-header2.png"
-      },
-      {
-        "src": "tier1-default-header3.png"
+        "src": "fn-tech-header-image-right.png"
       }
-    ]
+    ],
+    "subTitle": "Induction Ceremony and Dinner"
   },
   "countdown": {
     "display": true,
