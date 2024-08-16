@@ -1,15 +1,6 @@
 {
   "items": [
     {
-      "title": "Lobby",
-      "link": "/a/",
-      "display": true,
-      "requiresAuth": true,
-      "pageRestriction": [
-        "ANY"
-      ]
-    },
-    {
       "title": "Schedule",
       "link": "/a/schedule",
       "display": true,
@@ -19,26 +10,8 @@
       ]
     },
     {
-      "title": "My Schedule",
-      "link": "/a/my-schedule",
-      "display": true,
-      "requiresAuth": true,
-      "pageRestriction": [
-        "ANY"
-      ]
-    },
-    {
-      "title": "Sponsors ",
-      "link": "/a/sponsors/",
-      "display": true,
-      "requiresAuth": true,
-      "pageRestriction": [
-        "ANY"
-      ]
-    },
-    {
-      "title": "About the event",
-      "link": "/about-event",
+      "title": "About the HOF",
+      "link": "https://linkprotect.cudasvc.com/url?a=https%3a%2f%2fsjsa.org%2fhof%2fsponsorship%2f&c=E,1,L159ZZUmCJqkpfZdO2RoBf_eEO91iu0yD6yAcEyPE5Q_hUHXkI3aG4Kqvhiw4CRmSV-KG1s7RBqI6cw0RyAmXbt1T0R6b6Ga4-LZfAvrSCA,&typo=1",
       "display": true,
       "requiresAuth": false,
       "pageRestriction": [
@@ -46,17 +19,8 @@
       ]
     },
     {
-      "title": "Who we are",
-      "link": "/who-we-are",
-      "display": true,
-      "requiresAuth": false,
-      "pageRestriction": [
-        "ANY"
-      ]
-    },
-    {
-      "title": "Past events",
-      "link": "/past-events",
+      "title": "Sponsorship Details",
+      "link": "https://linkprotect.cudasvc.com/url?a=http%3a%2f%2fsjsa.org%2fhof&c=E,1,AZn1pWtNIr5jOaVLKdla9kFPJeCUn_PDK-ZBzWANhj3WIKKqPTLuFKqCDcU48FDdAZdrvgES8WzrE2iX-ZWCYR2zx4MEvECflFFSkbN2fWxdSpGh&typo=1",
       "display": true,
       "requiresAuth": false,
       "pageRestriction": [
@@ -66,15 +30,6 @@
     {
       "title": "Contact",
       "link": "/contact",
-      "display": true,
-      "requiresAuth": false,
-      "pageRestriction": [
-        "ANY"
-      ]
-    },
-    {
-      "title": "Help",
-      "link": "/help",
       "display": true,
       "requiresAuth": false,
       "pageRestriction": [
