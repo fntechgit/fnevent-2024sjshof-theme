@@ -1,7 +1,17 @@
 {
   "items": [
     {
-      "title": "Schedule",
+      "requiresAuth": false,
+      "showOnlyAtShowTime": false,
+      "pageRestriction": [
+        "ANY"
+      ],
+      "title": "HOME",
+      "link": "/",
+      "display": true
+    },
+    {
+      "title": "SCHEDULE",
       "link": "/a/schedule",
       "display": true,
       "requiresAuth": false,
@@ -10,7 +20,7 @@
       ]
     },
     {
-      "title": "About the HOF",
+      "title": "ABOUT THE HOF",
       "link": "https://linkprotect.cudasvc.com/url?a=https%3a%2f%2fsjsa.org%2fhof%2fsponsorship%2f&c=E,1,L159ZZUmCJqkpfZdO2RoBf_eEO91iu0yD6yAcEyPE5Q_hUHXkI3aG4Kqvhiw4CRmSV-KG1s7RBqI6cw0RyAmXbt1T0R6b6Ga4-LZfAvrSCA,&typo=1",
       "display": true,
       "requiresAuth": false,
@@ -19,7 +29,7 @@
       ]
     },
     {
-      "title": "Sponsorship Details",
+      "title": "SPONSORSHIP DETAILS",
       "link": "https://linkprotect.cudasvc.com/url?a=http%3a%2f%2fsjsa.org%2fhof&c=E,1,AZn1pWtNIr5jOaVLKdla9kFPJeCUn_PDK-ZBzWANhj3WIKKqPTLuFKqCDcU48FDdAZdrvgES8WzrE2iX-ZWCYR2zx4MEvECflFFSkbN2fWxdSpGh&typo=1",
       "display": true,
       "requiresAuth": false,
@@ -28,16 +38,16 @@
       ]
     },
     {
-      "title": "Contact",
+      "title": "CONTACT",
       "link": "/contact",
-      "display": true,
+      "display": false,
       "requiresAuth": false,
       "pageRestriction": [
         "ANY"
       ]
     },
     {
-      "title": "My Orders/Tickets",
+      "title": "MY ORDERS/TICKETS",
       "link": "/a/my-tickets",
       "display": true,
       "requiresAuth": true,
