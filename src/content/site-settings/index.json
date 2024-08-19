@@ -43,5 +43,8 @@
     "enabled": false,
     "title": "Site under maintenance",
     "subtitle": "Please reload page shortly"
+  },
+  "siteMetadata": {
+    "title": "2024 San Jose Sports Hall of Fame"
   }
 }
