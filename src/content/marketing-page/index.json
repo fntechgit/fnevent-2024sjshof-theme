@@ -27,7 +27,7 @@
   },
   "widgets": {
     "schedule": {
-      "display": true,
+      "display": false,
       "title": "EVENT SCHEDULE"
     },
     "disqus": {
@@ -35,8 +35,11 @@
       "title": "Join the Conversation"
     },
     "image": {
-      "display": false,
-      "title": "Image"
+      "display": true,
+      "title": "HOF",
+      "image": {
+        "src": "2024-hof-left-ad-image.png"
+      }
     },
     "content": {
       "display": false,
