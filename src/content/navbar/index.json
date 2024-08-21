@@ -38,15 +38,6 @@
       ]
     },
     {
-      "title": "TUTORIAL",
-      "link": "/tutorial",
-      "display": true,
-      "requiresAuth": false,
-      "pageRestriction": [
-        "ANY"
-      ]
-    },
-    {
       "title": "MY ORDERS/TICKETS",
       "link": "/a/my-tickets",
       "display": true,
@@ -63,6 +54,16 @@
       "pageRestriction": [
         "ANY"
       ]
+    },
+    {
+      "requiresAuth": false,
+      "showOnlyAtShowTime": false,
+      "pageRestriction": [
+        "ANY"
+      ],
+      "title": "TUTORIAL",
+      "link": "/tutorial",
+      "display": true
     }
   ]
 }
