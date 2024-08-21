@@ -21,7 +21,7 @@
     },
     {
       "title": "ABOUT THE HOF",
-      "link": "https://linkprotect.cudasvc.com/url?a=https%3a%2f%2fsjsa.org%2fhof%2fsponsorship%2f&c=E,1,L159ZZUmCJqkpfZdO2RoBf_eEO91iu0yD6yAcEyPE5Q_hUHXkI3aG4Kqvhiw4CRmSV-KG1s7RBqI6cw0RyAmXbt1T0R6b6Ga4-LZfAvrSCA,&typo=1",
+      "link": "https://linkprotect.cudasvc.com/url?a=https%3a%2f%2fsjsa.org%2fhof%2f&c=E,1,aEpuu1zqv-owgGhriwiwbaoUDrViI3Y1Lr8QsY53nJgbJUtWgfK8MKGEBnjS-5SU5uRUHDN9ma8auTF9-TLu9gE-TfWb71iiXklkhO2FVg,,&typo=1",
       "display": true,
       "requiresAuth": false,
       "pageRestriction": [
@@ -30,7 +30,7 @@
     },
     {
       "title": "SPONSORSHIP DETAILS",
-      "link": "https://linkprotect.cudasvc.com/url?a=http%3a%2f%2fsjsa.org%2fhof&c=E,1,AZn1pWtNIr5jOaVLKdla9kFPJeCUn_PDK-ZBzWANhj3WIKKqPTLuFKqCDcU48FDdAZdrvgES8WzrE2iX-ZWCYR2zx4MEvECflFFSkbN2fWxdSpGh&typo=1",
+      "link": "https://linkprotect.cudasvc.com/url?a=https%3a%2f%2fsjsa.org%2fhof%2fsponsorship%2f&c=E,1,M84IZ3YsiZnQG9pH-YwTRCHQ6UPbx0xjlXollos_gqa2DAObHBZwlxkUXI7rRvri4Pt23634YnR_Ponfgzys6nb1T2cq1ReqsCFNlnee8s_png,,&typo=1",
       "display": true,
       "requiresAuth": false,
       "pageRestriction": [
@@ -38,9 +38,9 @@
       ]
     },
     {
-      "title": "CONTACT",
-      "link": "/contact",
-      "display": false,
+      "title": "TUTORIAL",
+      "link": "/tutorial",
+      "display": true,
       "requiresAuth": false,
       "pageRestriction": [
         "ANY"
