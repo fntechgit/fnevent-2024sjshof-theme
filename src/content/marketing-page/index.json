@@ -36,7 +36,7 @@
     },
     "image": {
       "display": true,
-      "title": "HOF",
+      "title": "",
       "image": {
         "src": "2024-hof-left-ad-image.png"
       }
@@ -54,7 +54,7 @@
         "size": 2,
         "images": [
           {
-            "src": "sa24-fnv-space1-v1.png"
+            "src": "sa24-fnv-space1_v2.png"
           }
         ]
       },
@@ -63,7 +63,7 @@
         "size": 1,
         "images": [
           {
-            "src": "sa24-fnv-space2-v1.png"
+            "src": "sa24-fnv-space2_v2.png"
           }
         ]
       },
@@ -72,7 +72,7 @@
         "size": 1,
         "images": [
           {
-            "src": "sa24-fnv-space3-v1.png"
+            "src": "sa24-fnv-space3_v2.png"
           }
         ]
       },
@@ -81,7 +81,7 @@
         "size": 2,
         "images": [
           {
-            "src": "sa24-fnv-space4-v1.png"
+            "src": "sa24-fnv-space4_v2.png"
           }
         ]
       }
