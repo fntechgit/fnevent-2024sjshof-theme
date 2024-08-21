@@ -1,6 +1,6 @@
 ---
 templateKey: content-page
-title: tutorial
+title: Tutorial
 userRequirement: NONE
 ---
 Information coming soon!
