@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "requiresAuth": false,
+      "userRequirement": "NONE",
       "showOnlyAtShowTime": false,
       "pageRestriction": [
         "ANY"
@@ -14,7 +14,7 @@
       "title": "SCHEDULE",
       "link": "/a/schedule",
       "display": true,
-      "requiresAuth": false,
+      "userRequirement": "NONE",
       "pageRestriction": [
         "ANY"
       ]
@@ -23,7 +23,7 @@
       "title": "ABOUT THE HOF",
       "link": "https://linkprotect.cudasvc.com/url?a=https%3a%2f%2fsjsa.org%2fhof%2f&c=E,1,aEpuu1zqv-owgGhriwiwbaoUDrViI3Y1Lr8QsY53nJgbJUtWgfK8MKGEBnjS-5SU5uRUHDN9ma8auTF9-TLu9gE-TfWb71iiXklkhO2FVg,,&typo=1",
       "display": true,
-      "requiresAuth": false,
+      "userRequirement": "NONE",
       "pageRestriction": [
         "ANY"
       ]
@@ -32,13 +32,13 @@
       "title": "SPONSORSHIP DETAILS",
       "link": "https://linkprotect.cudasvc.com/url?a=https%3a%2f%2fsjsa.org%2fhof%2fsponsorship%2f&c=E,1,M84IZ3YsiZnQG9pH-YwTRCHQ6UPbx0xjlXollos_gqa2DAObHBZwlxkUXI7rRvri4Pt23634YnR_Ponfgzys6nb1T2cq1ReqsCFNlnee8s_png,,&typo=1",
       "display": true,
-      "requiresAuth": false,
+      "userRequirement": "NONE",
       "pageRestriction": [
         "ANY"
       ]
     },
     {
-      "requiresAuth": false,
+      "userRequirement": "NONE",
       "showOnlyAtShowTime": false,
       "pageRestriction": [
         "ANY"
@@ -51,7 +51,7 @@
       "title": "MY ORDERS/TICKETS",
       "link": "/a/my-tickets",
       "display": true,
-      "requiresAuth": true,
+      "userRequirement": "LOGGED_IN",
       "pageRestriction": [
         "ANY"
       ]
@@ -60,7 +60,7 @@
       "title": "MY PROFILE",
       "link": "/a/profile",
       "display": true,
-      "requiresAuth": true,
+      "userRequirement": "LOGGED_IN",
       "pageRestriction": [
         "ANY"
       ]
